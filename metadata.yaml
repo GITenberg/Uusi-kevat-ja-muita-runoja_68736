@@ -1,5 +1,8 @@
 _repo: Uusi-kevat-ja-muita-runoja_68736
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pohjanpää, Lauri Henrik
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54889
     wikipedia: https://fi.wikipedia.org/wiki/Lauri_Pohjanp%C3%A4%C3%A4
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68736#Uusi-kevat-ja-muita-runoja
 gutenberg_issued: '2022-08-12'
 identifiers:
   gutenberg: '68736'
